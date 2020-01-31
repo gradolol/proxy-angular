@@ -1,0 +1,8 @@
+{
+    "/api/*": {
+      "target": "http://gallery.dev.webant.ru",
+      "secure": false,
+      "logLevel": "debug",
+      "changeOrigin": true
+    }
+  }
